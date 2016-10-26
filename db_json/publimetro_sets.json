@@ -1,0 +1,362 @@
+    "sets":[
+        {
+            "featured":true,
+            "title": "Noticias",
+            "childTags": [
+                "noticias",
+            ],
+            "tags":[
+                "EknHomePageTag"
+            ]
+        },
+        {
+            "featured":false,
+            "title": "DF",
+            "childTags": [
+                "noticias/ciudad",
+            ],
+            "tags":[
+                "noticias"
+            ]
+        },
+        {
+            "featured":false,
+            "title": "Economía",
+            "childTags": [
+                "noticias/economia",
+            ],
+            "tags":[
+                "noticias"
+            ]
+        },
+        {
+            "featured":false,
+            "title": "Guadalajara",
+            "childTags": [
+                "noticias/guadalajara",
+            ],
+            "tags":[
+                "noticias"
+            ]
+        },
+        {
+            "featured":false,
+            "title": "Monterrey",
+            "childTags": [
+                "noticias/monterrey",
+            ],
+            "tags":[
+                "noticias"
+            ]
+        },
+        {
+            "featured":false,
+            "title": "Mundo",
+            "childTags": [
+                "noticias/mundo",
+            ],
+            "tags":[
+                "noticias"
+            ]
+        },
+        {
+            "featured":false,
+            "title": "País",
+            "childTags": [
+                "noticias/pais",
+            ],
+            "tags":[
+                "noticias"
+            ]
+        },
+        {
+            "featured":true,
+            "title": "Economía",
+            "childTags": [
+                "economia",
+            ],
+            "tags":[
+                "EknHomePageTag"
+            ]
+        },
+        {
+            "featured":false,
+            "title": "Finanzas Personales",
+            "childTags": [
+                "economia/finanzas-personales",
+            ],
+            "tags":[
+                "economia"
+            ]
+        },
+        {
+            "featured":true,
+            "title": "Deportes",
+            "childTags": [
+                "deportes",
+            ],
+            "tags":[
+                "EknHomePageTag"
+            ]
+        },
+        {
+            "featured":false,
+            "title": "Box",
+            "childTags": [
+                "deportes/box",
+            ],
+            "tags":[
+                "deportes"
+            ]
+        },
+        {
+            "featured":false,
+            "title": "En vivo",
+            "childTags": [
+                "deportes/envivo",
+            ],
+            "tags":[
+                "deportes"
+            ]
+        },
+        {
+            "featured":false,
+            "title": "Especiales",
+            "childTags": [
+                "deportes/especiales",
+            ],
+            "tags":[
+                "deportes"
+            ]
+        },
+        {
+            "featured":false,
+            "title": "Fórmula 1",
+            "childTags": [
+                "deportes/formula1",
+            ],
+            "tags":[
+                "deportes"
+            ]
+        },
+        {
+            "featured":false,
+            "title": "Fútbol internacional",
+            "childTags": [
+                "deportes/futbol-internacional",
+            ],
+            "tags":[
+                "deportes"
+            ]
+        },
+        {
+            "featured":false,
+            "title": "Fútbol nacional",
+            "childTags": [
+                "deportes/futbol-nacional",
+            ],
+            "tags":[
+                "deportes"
+            ]
+        },
+        {
+            "featured":false,
+            "title": "Multimedia",
+            "childTags": [
+                "deportes/multimedia",
+            ],
+            "tags":[
+                "deportes"
+            ]
+        },
+        {
+            "featured":false,
+            "title": "Galerías",
+            "childTags": [
+                "deportes/multimedia/galerias",
+            ],
+            "tags":[
+                "deportes/multimedia"
+            ]
+        },
+        {
+            "featured":false,
+            "title": "Video",
+            "childTags": [
+                "deportes/multimedia/video",
+            ],
+            "tags":[
+                "deportes/multimedia"
+            ]
+        },
+        {
+            "featured":false,
+            "title": "Otros deportes",
+            "childTags": [
+                "deportes/otros-deportes",
+            ],
+            "tags":[
+                "deportes"
+            ]
+        },
+        {
+            "featured":false,
+            "title": "NFL",
+            "childTags": [
+                "deportes/otros-deportes/NFL",
+            ],
+            "tags":[
+                "deportes/otros-deportes"
+            ]
+        },
+        {
+            "featured":false,
+            "title": "Resultados",
+            "childTags": [
+                "deportes/resultados",
+            ],
+            "tags":[
+                "deportes"
+            ]
+        },
+        {
+            "featured":false,
+            "title": "Río 2016",
+            "childTags": [
+                "deportes/rio2016",
+            ],
+            "tags":[
+                "deportes"
+            ]
+        },
+        {
+            "featured":false,
+            "title": "Selección mexicana",
+            "childTags": [
+                "deportes/seleccion-mexicana",
+            ],
+            "tags":[
+                "deportes"
+            ]
+        },
+        {
+            "featured":true,
+            "title": "Entretenimiento",
+            "childTags": [
+                "entretenimiento",
+            ],
+            "tags":[
+                "EknHomePageTag"
+            ]
+        },
+        {
+            "featured":false,
+            "title": "Celebridades",
+            "childTags": [
+                "entretenimiento/celebridades",
+            ],
+            "tags":[
+                "entretenimiento"
+            ]
+        },
+        {
+            "featured":false,
+            "title": "Cine",
+            "childTags": [
+                "entretenimiento/cine",
+            ],
+            "tags":[
+                "entretenimiento"
+            ]
+        },
+        {
+            "featured":false,
+            "title": "Música",
+            "childTags": [
+                "entretenimiento/musica",
+            ],
+            "tags":[
+                "entretenimiento"
+            ]
+        },
+        {
+            "featured":false,
+            "title": "Televisión",
+            "childTags": [
+                "entretenimiento/television",
+            ],
+            "tags":[
+                "entretenimiento"
+            ]
+        },
+        {
+            "featured":true,
+            "title": "Estilo de Vida",
+            "childTags": [
+                "estilo-de-vida",
+            ],
+            "tags":[
+                "EknHomePageTag"
+            ]
+        },
+        {
+            "featured":false,
+            "title": "Autos",
+            "childTags": [
+                "estilo-de-vida/autos",
+            ],
+            "tags":[
+                "estilo-de-vida"
+            ]
+        },
+        {
+            "featured":false,
+            "title": "Dónde comer",
+            "childTags": [
+                "estilo-de-vida/donde-comer",
+            ],
+            "tags":[
+                "estilo-de-vida"
+            ]
+        },
+        {
+            "featured":false,
+            "title": "Educación y cultura",
+            "childTags": [
+                "estilo-de-vida/educacion-y-cultura",
+            ],
+            "tags":[
+                "estilo-de-vida"
+            ]
+        },
+        {
+            "featured":false,
+            "title": "¿Qué Hacer?",
+            "childTags": [
+                "estilo-de-vida/quehacer",
+            ],
+            "tags":[
+                "estilo-de-vida"
+            ]
+        },
+        {
+            "featured":false,
+            "title": "Salud",
+            "childTags": [
+                "estilo-de-vida/salud",
+            ],
+            "tags":[
+                "estilo-de-vida"
+            ]
+        },
+        {
+            "featured":false,
+            "title": "Viajeros",
+            "childTags": [
+                "estilo-de-vida/viajeros",
+            ],
+            "tags":[
+                "estilo-de-vida"
+            ]
+        }
+    ]

@@ -1,0 +1,131 @@
+"sets": [
+    {
+        "title": "Administrador De Bases De Datos",
+        "tags": [ "EknHomePageTag" ],
+        "childTags": [ "Tecnología_AdministradorDeBasesDeDatos", ],
+        "featured": true
+    },
+    {
+        "title": "Nivel 1",
+        "tags": [ "Tecnología_AdministradorDeBasesDeDatos" ],
+        "childTags": [ "Tecnología_AdministradorDeBasesDeDatos_Nivel1", ],
+        "featured": false
+    },
+    {
+        "title": "Lección 1",
+        "tags": [ "Tecnología_AdministradorDeBasesDeDatos_Nivel1" ],
+        "childTags": [ "Tecnología_AdministradorDeBasesDeDatos_Nivel1_Lección1", ],
+        "featured": false
+    },
+    {
+        "title": "Lección 2",
+        "tags": [ "Tecnología_AdministradorDeBasesDeDatos_Nivel1" ],
+        "childTags": [ "Tecnología_AdministradorDeBasesDeDatos_Nivel1_Lección2", ],
+        "featured": false
+    },
+    {
+        "title": "Nivel 2",
+        "tags": [ "Tecnología_AdministradorDeBasesDeDatos" ],
+        "childTags": [ "Tecnología_AdministradorDeBasesDeDatos_Nivel2", ],
+        "featured": false
+    },
+    {
+        "title": "Lección1",
+        "tags": [ "Tecnología_AdministradorDeBasesDeDatos_Nivel2" ],
+        "childTags": [ "Tecnología_AdministradorDeBasesDeDatos_Nivel2_Lección1", ],
+        "featured": false
+    },
+    {
+        "title": "Lección2",
+        "tags": [ "Tecnología_AdministradorDeBasesDeDatos_Nivel2" ],
+        "childTags": [ "Tecnología_AdministradorDeBasesDeDatos_Nivel2_Lección2", ],
+        "featured": false
+    },
+    {
+        "title": "Tecnología_AdministradorDeBasesDeDatos_Nivel2_Lección3",
+        "tags": [ "Tecnología_AdministradorDeBasesDeDatos_Nivel2" ],
+        "childTags": [ "Tecnología_AdministradorDeBasesDeDatos_Nivel2_Lección3", ],
+        "featured": false
+    },
+    {
+        "title": "Tecnología_AdministradorDeBasesDeDatos_Nivel2_Lección4",
+        "tags": [ "Tecnología_AdministradorDeBasesDeDatos_Nivel2" ],
+        "childTags": [ "Tecnología_AdministradorDeBasesDeDatos_Nivel2_Lección4", ],
+        "featured": false
+    },
+    {
+        "title": "Tecnología_AdministradorDeBasesDeDatos_Nivel3",
+        "tags": [ "Tecnología_AdministradorDeBasesDeDatos" ],
+        "childTags": [ "Tecnología_AdministradorDeBasesDeDatos_Nivel3", ],
+        "featured": false
+    },
+    {
+        "title": "Tecnología_AdministradorDeBasesDeDatos_Nivel3_Lección1",
+        "tags": [ "Tecnología_AdministradorDeBasesDeDatos_Nivel3" ],
+        "childTags": [ "Tecnología_AdministradorDeBasesDeDatos_Nivel3_Lección1", ],
+        "featured": false
+    },
+    {
+        "title": "Tecnología_AdministradorDeBasesDeDatos_Nivel3_Lección2",
+        "tags": [ "Tecnología_AdministradorDeBasesDeDatos_Nivel3" ],
+        "childTags": [ "Tecnología_AdministradorDeBasesDeDatos_Nivel3_Lección2", ],
+        "featured": false
+    },
+    {
+        "title": "Tecnología_AdministradorDeBasesDeDatos_Nivel4",
+        "tags": [ "Tecnología_AdministradorDeBasesDeDatos" ],
+        "childTags": [ "Tecnología_AdministradorDeBasesDeDatos_Nivel4", ],
+        "featured": false
+    },
+    {
+        "title": "Tecnología_AdministradorDeBasesDeDatos_Nivel4_Lección1",
+        "tags": [ "Tecnología_AdministradorDeBasesDeDatos_Nivel4" ],
+        "childTags": [ "Tecnología_AdministradorDeBasesDeDatos_Nivel4_Lección1", ],
+        "featured": false
+    }
+]
+
+"tags": [ "Tecnología", "Administrador de Bases de Datos", "Introduccion", "Introduccion" ],
+"tags": [ "Tecnología", "Administrador de Bases de Datos", "Nivel 1", "Leccion 1" ],
+"tags": [ "Tecnología", "Administrador de Bases de Datos", "Nivel 1", "Leccion 2" ],
+"tags": [ "Tecnología", "Administrador de Bases de Datos", "Nivel 2", "Leccion 1" ],
+"tags": [ "Tecnología", "Administrador de Bases de Datos", "Nivel 2", "Leccion 2" ],
+"tags": [ "Tecnología", "Administrador de Bases de Datos", "Nivel 2", "Leccion 3" ],
+"tags": [ "Tecnología", "Administrador de Bases de Datos", "Nivel 2", "Leccion 4" ],
+"tags": [ "Tecnología", "Administrador de Bases de Datos", "Nivel 3", "Leccion 1" ],
+"tags": [ "Tecnología", "Administrador de Bases de Datos", "Nivel 3", "Leccion 2" ],
+"tags": [ "Tecnología", "Administrador de Bases de Datos", "Nivel 4", "Leccion 1" ],
+
+
+{
+    "featured":true,
+    "title": "Administrador de Bases de Datos",
+    "childTags": [
+        "administrador_de_bases_de_datos",
+    ],
+    "tags":[
+        "EknHomePageTag"
+    ]
+},
+
+    "sets":[
+        {
+            "featured":true,
+            "title": "Noticias",
+            "childTags": [
+                "noticias",
+            ],
+            "tags":[
+                "EknHomePageTag"
+            ]
+        },
+        {
+            "featured":false,
+            "title": "DF",
+            "childTags": [
+                "noticias/ciudad",
+            ],
+            "tags":[
+                "noticias"
+            ]
+        },

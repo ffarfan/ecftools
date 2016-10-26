@@ -1,0 +1,661 @@
+{
+  "appId": "com.endlessm.canary-en",
+  "language": "en",
+
+  "content": [
+    {
+      "sourceURI": "http://www.publimetro.com.mx/autos/los-siete-pecados-capitales-que-debes-evitar-en-la-gasolineria/mphr!7HN4Rh1aVGFhw/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/economia/35-de-los-mexicanos-adquieren-productos-con-tarjetas-de-credito/mphj!19x1yEGMtLKRE/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/economia/a-crecer-el-efecto-justicia-en-jalisco-antonio-ocaranza/mpgC!EBQ5VuEfc1ZNM/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/economia/canacar-reporta-perdidas-de-663-mdp-por-robo-a-transporte-de-carga/mphj!DiJttt69AmQ9Y/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/economia/corrupcion-en-mexico-cuesta-10-del-pib/mphr!TTCX40R2L1yjg/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/economia/fundacion-telmex-apoyara-a-jovenes-emprendedores/mphj!WRanGMgGqUQRs/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/economia/la-columna-de-gbmhomebroker-perfil-del-inversionista-vs-perfil-de-la-inversion/mphc!zRZo3m6gGmBg2/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/economia/la-columna-de-piggo-cartera-sana-entre-la-felicidad-y-el-estres/mphj!RVTy6j8C4Pl/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/economia/profesionistas-deben-trabajar-470-meses-para-ganar-lo-que-costo-su-carrera/mphr!uftwroXw79XFA/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/economia/un-millon-300-mil-mujeres-en-el-mundo-no-tienen-cuenta-bancaria/mphe!1DpsvBmYVSQw/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/economia/usa-el-credito-de-forma-adecuada-durante-el-regreso-a-clases/mphk!9l6dMnrYA1Fnw/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/economia/usa-el-credito-de-forma-adecuada-durante-el-regreso-a-clases/mphk!9l6dMnrYA1Fnw/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/economia/walmart-vende-suburbia-a-liverpool-por-19-mmdp/mphk!NGuusbWaZRJoA/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/entretenimiento/adele-a-punto-de-llorar-se-disculpa-con-sus-fans-en-instagram/XeSphr!jv7UK6N6Kq2PZuxzeZmjNQ/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/entretenimiento/alejandra-guzman-discute-con-concursante-de-va-por-ti/mphj!Sax5HymWgtSOk/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/entretenimiento/amy-lee-de-evanescence-ahora-le-cantara-a-los-ninos/XeSphr!bLOXMsVv281j5XS84ntYYg/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/entretenimiento/autoridades-interrumpen-concierto-de-moderatto-en-el-zocalo-por-falta-de-permiso/mphj!fNSkL2JuLyBiU/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/entretenimiento/cinemex-cambiara-pases-de-preventa-de-escuadron-suicida-por-10-pases/mphe!Fh48qSlyx6pY/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/entretenimiento/eduardo-verastegui-alista-pelicula-sobre-la-vida-de-la-virgen-maria/mphj!Mj3X7VEZD0cvo/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/entretenimiento/entre-correr-y-vivir-la-serie-de-tv-azteca-que-tambien-se-vera-en-blim/mphj!D0bI6uuBg3Pks/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/entretenimiento/estrenos-de-peliculas-cartelera-del-11-al-14-de-agosto-de-2016/mphk!vD133StoJAYTI/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/entretenimiento/laura-pausini-lista-para-sus-conciertos-en-mexico/mphj!2vdsrWL0QxQJI/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/entretenimiento/michel-duval-traera-mas-accion-a-la-senora-acero-la-coyote/mphj!Sr6D9He39hFTs/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/entretenimiento/preparan-version-femenina-de-oceans-eleven/mphj!YsUAuy3BWg9UQ/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/estilo-de-vida/5-tips-para-un-feliz-regreso-a-clases-sin-morir-en-el-intento/mphk!07bfynTrVx3xc/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/estilo-de-vida/beetlepink-y-beetledenim-continuan-la-leyenda/mphj!1WLFy4DZ4cnEY/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/estilo-de-vida/cinco-fabulosas-casas-con-alberca-en-mexico/mphj!7ARk7sNgoMoo/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/estilo-de-vida/colores-y-escritura-la-importancia-de-aprender-jugando/mphk!n9vbT7kNzMIs/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/estilo-de-vida/cuando-y-donde-es-la-expo-weed-2016/mphj!lw4YkZ0QixiU/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/estilo-de-vida/destinos-para-viajar-y-capturar-pokemon/mphe!g4UlAaLatixe/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/estilo-de-vida/donde-comer-y-beber-a-la-alemana-en-la-cdmx/mpgC!B2LAU1X3wiJc/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/estilo-de-vida/hallan-en-mexico-el-tratamiento-dental-mas-antiguo-de-america/mphj!LjjfkQ5RmfnM/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/estilo-de-vida/las-lenguas-indigenas-en-mexico-que-estan-en-peligro-de-extincion/mphi!dQVUT9Feky9QA/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/estilo-de-vida/mexicanas-crean-papel-ecologico-con-desechos-de-platano/mphi!NnNrtZEA5vJy/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/estilo-de-vida/opciones-de-cine-gratis-para-el-mes-de-agosto-en-la-cdmx/mphi!tHjWYXNmHKQ/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/estilo-de-vida/que-ver-en-la-semana-de-cine-aleman-en-la-cdmx/mphj!CBKzGNI8qdg/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/estilo-de-vida/si-se-amamantara-a-todos-los-bebes-se-salvarian-800-mil-vidas-unicef/mphc!1ViqyAg08Tkw/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/estilo-de-vida/trajes-a-la-medida-ediciones-especiales-pink-y-denim/mphk!8KgC7gKByxvAw/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/estilo-de-vida/trajes-a-la-medida-ediciones-especiales-pink-y-denim/mphk!8KgC7gKByxvAw/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/estilo-de-vida/un-recorrido-por-la-cdmx-para-recordar-el-surgimiento-de-la-constitucion/mphj!SfiCb8C06ByN2/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/estilo-de-vida/unas-de-tus-pies-ayudaran-a-detectar-si-padeces-diabetes/mphb!snvIPWUFeFxKY/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/formula-1/hamilton-le-pinta-dedo-a-esteban-gutierrez/mpgx!EL31iMaVhj1IQ/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/formula-1/rosberg-consigue-la-pole-en-hungria-perez-saldra-decimotercero/mpgw!G5JACp073K0c/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/formula-1/sergio-perez-listo-para-el-gp-de-hockenheim/mpgD!PofP76XzBp5sI/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/noticias/acusaciones-contra-los-calderon-zavala-son-burdas-y-sin-sustento-pan/mphr!5kmtVnORpg2XQ/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/noticias/ankara-ofrece-a-rusia-ataques-conjuntos-contra-ei/mphk!UcPEa0VcoedsY/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/noticias/atentado-con-coches-bombas-deja-6-muertos-en-turquia/mphr!j7xCxhamC0D5Q/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/noticias/decomisan-en-espana-armas-salidas-de-ghana-con-destino-a-eu/mphk!zGkhEIEc42WY/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/noticias/explosion-en-planta-quimica-en-china-deja-mas-de-20-muertos/mphk!4vmaXMNixupc/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/noticias/la-columna-de-rios-piter-la-educacion-exige-acuerdos/mphr!974aNyNVmuRAE/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/noticias/lordrollsroyce-exhibe-contratos-con-pri-para-comprobar-sus-ingresos/mphk!z7pZfDdvLsS3Q/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/noticias/no-mas-trump-miles-de-republicanos-buscan-otro-candidato-presidencial/mphr!vSFViBy4Jlz6/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/noticias/obesidad-embarazo-en-adolescentes-y-cancer-de-mama-principales-problemas-de-salud-en-nl/mphk!DBctSrMC1jdc/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/noticias/otorgan-amparo-a-el-chapo-para-regresar-al-altiplano/mphr!wydnfdd1EDCyI/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/noticias/pronostico-del-clima-para-hoy-jueves-11-de-agosto-de-2016/mphk!t2voiQjTbp7w/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/noticias/pronostico-del-clima-para-hoy-jueves-18-de-agosto-de-2016/mphr!jSLYiy6PERmSU/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/noticias/reportan-segundo-caso-de-bacteria-letal-en-hospital-de-eu/mphr!7jL7BIdOrxo2U/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/noticias/selva-lacandona-podria-desaparecer-en-10-anos/mphr!e3RtVthISVo2/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/noticias/sismos-hoy-11-de-agosto-de-2016/mphk!XOsMqx9kvogQ/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/noticias/ultimas-noticiasmarchas-concentraciones-hoy-no-circula-y-eventos-para-hoy-11-de-agosto-de-2016-en-el-df-y-edomex/mphk!iPoQ6V8Lepmc6/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/publisport/checo-perez-no-asegura-su-permanencia-en-force-india/mpgB!2DlGzM5P60uVs/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/publisport/chivas-solo-logra-empatar-con-los-cafetaleros-en-la-copa-mx/mphk!DXk5ekhxtZlfw/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/publisport/cruz-azul-califica-a-octavos-de-final-de-la-copa-mx/mphr!137UqnhkXQ73k/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/publisport/el-nadador-con-sobrepeso-que-compitio-en-rio-2016/mphk!4Mm7cmetF8GDk/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/publisport/el-taekwondoin-iduilo-islas-patea-en-la-cara-a-jean-douvenger/mphr!GiU5ASPl8xX8E/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/publisport/fotos-las-chicas-del-gran-premio-de-hungria/mpgx!dSFKWXe4Xka1w/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/publisport/nancy-arreola-la-enviada-del-bronco-a-rio-2016/mphk!6bnhTSTUYJbew/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/publisport/rio-2016-bia-y-branca-feres-bellas-gemelas-brasilenas-de-nado-sincronizado/mphr!d72QcWOfHOkVM/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/publisport/tigres-inicia-con-un-triunfo-su-participacion-en-la-concachampions/mphr!ZlxfH5CyRVetg/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/rio-2016/rio-2016-brasil-se-clasifica-a-cuartos-con-goleada-sobre-dinamarca/mphk!SFD3jzgOHE5vs/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/tono-esquinca/la-columna-de-tono-esquinca-el-mundo-gris/mphr!S7tTzYcziuiH/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/uber-lanza-servicio-compartido-busca-combatir-transito-del-df/mpak!qmgg79guXMqbg/",
+      "source": "publimetro"
+    },
+    {
+      "sourceURI": "http://www.publimetro.com.mx/uber-lanza-servicio-compartido-busca-combatir-transito-del-df/mpak!qmgg79guXMqbg/",
+      "source": "publimetro"
+    }
+  ],
+  "sets":[
+      {
+          "featured":true,
+          "title": "Noticias",
+          "childTags": [
+              "noticias"
+          ],
+          "tags":[
+              "EknHomePageTag"
+          ]
+      },
+      {
+          "featured":false,
+          "title": "DF",
+          "childTags": [
+              "noticias/ciudad"
+          ],
+          "tags":[
+              "noticias"
+          ]
+      },
+      {
+          "featured":false,
+          "title": "Economía",
+          "childTags": [
+              "noticias/economia"
+          ],
+          "tags":[
+              "noticias"
+          ]
+      },
+      {
+          "featured":false,
+          "title": "Guadalajara",
+          "childTags": [
+              "noticias/guadalajara"
+          ],
+          "tags":[
+              "noticias"
+          ]
+      },
+      {
+          "featured":false,
+          "title": "Monterrey",
+          "childTags": [
+              "noticias/monterrey"
+          ],
+          "tags":[
+              "noticias"
+          ]
+      },
+      {
+          "featured":false,
+          "title": "Mundo",
+          "childTags": [
+              "noticias/mundo"
+          ],
+          "tags":[
+              "noticias"
+          ]
+      },
+      {
+          "featured":false,
+          "title": "País",
+          "childTags": [
+              "noticias/pais"
+          ],
+          "tags":[
+              "noticias"
+          ]
+      },
+      {
+          "featured":true,
+          "title": "Economía",
+          "childTags": [
+              "economia"
+          ],
+          "tags":[
+              "EknHomePageTag"
+          ]
+      },
+      {
+          "featured":false,
+          "title": "Finanzas Personales",
+          "childTags": [
+              "economia/finanzas-personales"
+          ],
+          "tags":[
+              "economia"
+          ]
+      },
+      {
+          "featured":true,
+          "title": "Deportes",
+          "childTags": [
+              "deportes"
+          ],
+          "tags":[
+              "EknHomePageTag"
+          ]
+      },
+      {
+          "featured":false,
+          "title": "Box",
+          "childTags": [
+              "deportes/box"
+          ],
+          "tags":[
+              "deportes"
+          ]
+      },
+      {
+          "featured":false,
+          "title": "En vivo",
+          "childTags": [
+              "deportes/envivo"
+          ],
+          "tags":[
+              "deportes"
+          ]
+      },
+      {
+          "featured":false,
+          "title": "Especiales",
+          "childTags": [
+              "deportes/especiales"
+          ],
+          "tags":[
+              "deportes"
+          ]
+      },
+      {
+          "featured":false,
+          "title": "Fórmula 1",
+          "childTags": [
+              "deportes/formula1"
+          ],
+          "tags":[
+              "deportes"
+          ]
+      },
+      {
+          "featured":false,
+          "title": "Fútbol internacional",
+          "childTags": [
+              "deportes/futbol-internacional"
+          ],
+          "tags":[
+              "deportes"
+          ]
+      },
+      {
+          "featured":false,
+          "title": "Fútbol nacional",
+          "childTags": [
+              "deportes/futbol-nacional"
+          ],
+          "tags":[
+              "deportes"
+          ]
+      },
+      {
+          "featured":false,
+          "title": "Multimedia",
+          "childTags": [
+              "deportes/multimedia"
+          ],
+          "tags":[
+              "deportes"
+          ]
+      },
+      {
+          "featured":false,
+          "title": "Galerías",
+          "childTags": [
+              "deportes/multimedia/galerias"
+          ],
+          "tags":[
+              "deportes/multimedia"
+          ]
+      },
+      {
+          "featured":false,
+          "title": "Video",
+          "childTags": [
+              "deportes/multimedia/video"
+          ],
+          "tags":[
+              "deportes/multimedia"
+          ]
+      },
+      {
+          "featured":false,
+          "title": "Otros deportes",
+          "childTags": [
+              "deportes/otros-deportes"
+          ],
+          "tags":[
+              "deportes"
+          ]
+      },
+      {
+          "featured":false,
+          "title": "NFL",
+          "childTags": [
+              "deportes/otros-deportes/NFL"
+          ],
+          "tags":[
+              "deportes/otros-deportes"
+          ]
+      },
+      {
+          "featured":false,
+          "title": "Resultados",
+          "childTags": [
+              "deportes/resultados"
+          ],
+          "tags":[
+              "deportes"
+          ]
+      },
+      {
+          "featured":false,
+          "title": "Río 2016",
+          "childTags": [
+              "deportes/rio2016"
+          ],
+          "tags":[
+              "deportes"
+          ]
+      },
+      {
+          "featured":false,
+          "title": "Selección mexicana",
+          "childTags": [
+              "deportes/seleccion-mexicana"
+          ],
+          "tags":[
+              "deportes"
+          ]
+      },
+      {
+          "featured":true,
+          "title": "Entretenimiento",
+          "childTags": [
+              "entretenimiento"
+          ],
+          "tags":[
+              "EknHomePageTag"
+          ]
+      },
+      {
+          "featured":false,
+          "title": "Celebridades",
+          "childTags": [
+              "entretenimiento/celebridades"
+          ],
+          "tags":[
+              "entretenimiento"
+          ]
+      },
+      {
+          "featured":false,
+          "title": "Cine",
+          "childTags": [
+              "entretenimiento/cine"
+          ],
+          "tags":[
+              "entretenimiento"
+          ]
+      },
+      {
+          "featured":false,
+          "title": "Música",
+          "childTags": [
+              "entretenimiento/musica"
+          ],
+          "tags":[
+              "entretenimiento"
+          ]
+      },
+      {
+          "featured":false,
+          "title": "Televisión",
+          "childTags": [
+              "entretenimiento/television"
+          ],
+          "tags":[
+              "entretenimiento"
+          ]
+      },
+      {
+          "featured":true,
+          "title": "Estilo de Vida",
+          "childTags": [
+              "estilo-de-vida"
+          ],
+          "tags":[
+              "EknHomePageTag"
+          ]
+      },
+      {
+          "featured":false,
+          "title": "Autos",
+          "childTags": [
+              "estilo-de-vida/autos"
+          ],
+          "tags":[
+              "estilo-de-vida"
+          ]
+      },
+      {
+          "featured":false,
+          "title": "Dónde comer",
+          "childTags": [
+              "estilo-de-vida/donde-comer"
+          ],
+          "tags":[
+              "estilo-de-vida"
+          ]
+      },
+      {
+          "featured":false,
+          "title": "Educación y cultura",
+          "childTags": [
+              "estilo-de-vida/educacion-y-cultura"
+          ],
+          "tags":[
+              "estilo-de-vida"
+          ]
+      },
+      {
+          "featured":false,
+          "title": "¿Qué Hacer?",
+          "childTags": [
+              "estilo-de-vida/quehacer"
+          ],
+          "tags":[
+              "estilo-de-vida"
+          ]
+      },
+      {
+          "featured":false,
+          "title": "Salud",
+          "childTags": [
+              "estilo-de-vida/salud"
+          ],
+          "tags":[
+              "estilo-de-vida"
+          ]
+      },
+      {
+          "featured":false,
+          "title": "Viajeros",
+          "childTags": [
+              "estilo-de-vida/viajeros"
+          ],
+          "tags":[
+              "estilo-de-vida"
+          ]
+      }
+  ]
+}
