@@ -256,7 +256,8 @@
       "tags": [ "EknHomePageTag" ],
       "childTags": [ "Tecnologia_AdministradorDeBasesDeDatos" ],
       "featured": true,
-      "sequenceNumber": 42
+      "sequenceNumber": 42,
+      "thumbnailURI": "https://www.dropbox.com/sh/ezswivjoiq7sypq/AAAhLx--lzTZx5_YJDz1Hcr7a/technologia/course_icons_trans?dl=1&preview=icon_admin-datos.png"
     },
     {
       "title": "Nivel 1",
