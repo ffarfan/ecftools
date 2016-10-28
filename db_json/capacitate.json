@@ -248,6 +248,174 @@
         "sourceURI": "https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=4066&load=4175&n=3&brandID=",
         "tags": [ "Tecnologia_AdministradorDeBasesDeDatos_Nivel4_Leccion1" ],
         "sequenceNumber": 41
+    },
+    {
+      "source": "capacitate",
+      "sourceURI": "https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=4669",
+      "tags": [ "Tecnologia_AdministradorDeServidores" ],
+      "sequenceNumber": 56
+    },
+    {
+      "source": "capacitate",
+      "sourceURI": "https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=4669&load=4900",
+      "tags": [ "Tecnologia_AdministradorDeServidores_Nivel1_Leccion1" ],
+      "sequenceNumber": 57
+    },
+    {
+      "source": "capacitate",
+      "sourceURI": "https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=4669&load=4901",
+      "tags": [ "Tecnologia_AdministradorDeServidores_Nivel1_Leccion1" ],
+      "sequenceNumber": 58
+    },
+    {
+      "source": "capacitate",
+      "sourceURI": "https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=4669&load=4902",
+      "tags": [ "Tecnologia_AdministradorDeServidores_Nivel1_Leccion2" ],
+      "sequenceNumber": 59
+    },
+    {
+      "source": "capacitate",
+      "sourceURI": "https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=4669&load=4903",
+      "tags": [ "Tecnologia_AdministradorDeServidores_Nivel1_Leccion2" ],
+      "sequenceNumber": 60
+    },
+    {
+      "source": "capacitate",
+      "sourceURI": "https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=4669&load=4905",
+      "tags": [ "Tecnologia_AdministradorDeServidores_Nivel1_Leccion2" ],
+      "sequenceNumber": 61
+    },
+    {
+      "source": "capacitate",
+      "sourceURI": "https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=4669&load=4906",
+      "tags": [ "Tecnologia_AdministradorDeServidores_Nivel1_Leccion2" ],
+      "sequenceNumber": 62
+    },
+    {
+      "source": "capacitate",
+      "sourceURI": "https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=4669&load=4907",
+      "tags": [ "Tecnologia_AdministradorDeServidores_Nivel1_Leccion2" ],
+      "sequenceNumber": 63
+    },
+    {
+      "source": "capacitate",
+      "sourceURI": "https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=4669&load=4908",
+      "tags": [ "Tecnologia_AdministradorDeServidores_Nivel1_Leccion2" ],
+      "sequenceNumber": 64
+    },
+    {
+      "source": "capacitate",
+      "sourceURI": "https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=4669&load=4909",
+      "tags": [ "Tecnologia_AdministradorDeServidores_Nivel1_Leccion2" ],
+      "sequenceNumber": 65
+    },
+    {
+      "source": "capacitate",
+      "sourceURI": "https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=4669&load=4917",
+      "tags": [ "Tecnologia_AdministradorDeServidores_Nivel2_Leccion1" ],
+      "sequenceNumber": 66
+    },
+    {
+      "source": "capacitate",
+      "sourceURI": "https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=4669&load=4918",
+      "tags": [ "Tecnologia_AdministradorDeServidores_Nivel2_Leccion1" ],
+      "sequenceNumber": 67
+    },
+    {
+      "source": "capacitate",
+      "sourceURI": "https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=4669&load=4919",
+      "tags": [ "Tecnologia_AdministradorDeServidores_Nivel2_Leccion1" ],
+      "sequenceNumber": 68
+    },
+    {
+      "source": "capacitate",
+      "sourceURI": "https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=4669&load=4920",
+      "tags": [ "Tecnologia_AdministradorDeServidores_Nivel2_Leccion1" ],
+      "sequenceNumber": 69
+    },
+    {
+      "source": "capacitate",
+      "sourceURI": "https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=4669&load=4921",
+      "tags": [ "Tecnologia_AdministradorDeServidores_Nivel2_Leccion1" ],
+      "sequenceNumber": 70
+    },
+    {
+      "source": "capacitate",
+      "sourceURI": "https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=4669&load=4922",
+      "tags": [ "Tecnologia_AdministradorDeServidores_Nivel2_Leccion1" ],
+      "sequenceNumber": 71
+    },
+    {
+      "source": "capacitate",
+      "sourceURI": "https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=4669&load=4923",
+      "tags": [ "Tecnologia_AdministradorDeServidores_Nivel2_Leccion2" ],
+      "sequenceNumber": 72
+    },
+    {
+      "source": "capacitate",
+      "sourceURI": "https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=4669&load=4924",
+      "tags": [ "Tecnologia_AdministradorDeServidores_Nivel2_Leccion2" ],
+      "sequenceNumber": 73
+    },
+    {
+      "source": "capacitate",
+      "sourceURI": "https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=4669&load=4925",
+      "tags": [ "Tecnologia_AdministradorDeServidores_Nivel2_Leccion2" ],
+      "sequenceNumber": 74
+    },
+    {
+      "source": "capacitate",
+      "sourceURI": "https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=4669&load=4926",
+      "tags": [ "Tecnologia_AdministradorDeServidores_Nivel2_Leccion2" ],
+      "sequenceNumber": 75
+    },
+    {
+      "source": "capacitate",
+      "sourceURI": "https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=4669&load=4927",
+      "tags": [ "Tecnologia_AdministradorDeServidores_Nivel2_Leccion2" ],
+      "sequenceNumber": 76
+    },
+    {
+      "source": "capacitate",
+      "sourceURI": "https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=4669&load=4928",
+      "tags": [ "Tecnologia_AdministradorDeServidores_Nivel2_Leccion2" ],
+      "sequenceNumber": 77
+    },
+    {
+      "source": "capacitate",
+      "sourceURI": "https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=4669&load=4929",
+      "tags": [ "Tecnologia_AdministradorDeServidores_Nivel2_Leccion3" ],
+      "sequenceNumber": 78
+    },
+    {
+      "source": "capacitate",
+      "sourceURI": "https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=4669&load=4930",
+      "tags": [ "Tecnologia_AdministradorDeServidores_Nivel2_Leccion3" ],
+      "sequenceNumber": 79
+    },
+    {
+      "source": "capacitate",
+      "sourceURI": "https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=4669&load=4931",
+      "tags": [ "Tecnologia_AdministradorDeServidores_Nivel2_Leccion3" ],
+      "sequenceNumber": 80
+    },
+    {
+      "source": "capacitate",
+      "sourceURI": "https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=4669&load=4932",
+      "tags": [ "Tecnologia_AdministradorDeServidores_Nivel2_Leccion3" ],
+      "sequenceNumber": 81
+    },
+    {
+      "source": "capacitate",
+      "sourceURI": "https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=4669&load=4933",
+      "tags": [ "Tecnologia_AdministradorDeServidores_Nivel2_Leccion3" ],
+      "sequenceNumber": 82
+    },
+    {
+      "source": "capacitate",
+      "sourceURI": "https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=4669&load=4934",
+      "tags": [ "Tecnologia_AdministradorDeServidores_Nivel2_Leccion4" ],
+      "sequenceNumber": 83
     }
   ],
   "sets": [
@@ -256,8 +424,8 @@
       "tags": [ "EknHomePageTag" ],
       "childTags": [ "Tecnologia_AdministradorDeBasesDeDatos" ],
       "featured": true,
-      "sequenceNumber": 42,
-      "thumbnailURI": "https://www.dropbox.com/sh/ezswivjoiq7sypq/AABY-QopQKDCWDg6GXjBavNra/technologia/course_icons_trans/icon_admin-datos.png?dl=1"
+      "thumbnailURI": "https://www.dropbox.com/sh/ezswivjoiq7sypq/AABY-QopQKDCWDg6GXjBavNra/technologia/course_icons_trans/icon_admin-datos.png?dl=1",
+      "sequenceNumber": 42
     },
     {
       "title": "Nivel 1",
@@ -349,6 +517,119 @@
       "childTags": [ "Tecnologia_AdministradorDeBasesDeDatos_Nivel4_Leccion1" ],
       "featured": false,
       "sequenceNumber": 55
+    },
+    {
+      "title": "Administrador De Servidores",
+      "tags": [ "EknHomePageTag"],
+      "childTags": [ "Tecnologia_AdministradorDeServidores"],
+      "featured": true,
+      "thumbnailURI": "https://www.dropbox.com/sh/ezswivjoiq7sypq/AAAKvj8_lz7hIfV0rDy4neNoa/technologia/course_icons_trans/icon_admin-servidores.png?dl=1",
+      "sequenceNumber": 84
+    },
+    {
+      "title": "Nivel 1",
+      "tags": [ "Tecnologia_AdministradorDeServidores"],
+      "childTags": [ "Tecnologia_AdministradorDeServidores_Nivel1"],
+      "featured": false,
+      "sequenceNumber": 85
+    },
+    {
+      "title": "Leccion 1",
+      "tags": [ "Tecnologia_AdministradorDeServidores_Nivel1"],
+      "childTags": [ "Tecnologia_AdministradorDeServidores_Nivel1_Leccion1"],
+      "featured": false,
+      "sequenceNumber": 86
+    },
+    {
+      "title": "Leccion 2",
+      "tags": [ "Tecnologia_AdministradorDeServidores_Nivel1"],
+      "childTags": [ "Tecnologia_AdministradorDeServidores_Nivel1_Leccion2"],
+      "featured": false,
+      "sequenceNumber": 87
+    },
+    {
+      "title": "Nivel 2",
+      "tags": [ "Tecnologia_AdministradorDeServidores"],
+      "childTags": [ "Tecnologia_AdministradorDeServidores_Nivel2"],
+      "featured": false,
+      "sequenceNumber": 88
+    },
+    {
+      "title": "Leccion 1",
+      "tags": [ "Tecnologia_AdministradorDeServidores_Nivel2"],
+      "childTags": [ "Tecnologia_AdministradorDeServidores_Nivel2_Leccion1"],
+      "featured": false,
+      "sequenceNumber": 89
+    },
+    {
+      "title": "Leccion 2",
+      "tags": [ "Tecnologia_AdministradorDeServidores_Nivel2"],
+      "childTags": [ "Tecnologia_AdministradorDeServidores_Nivel2_Leccion2"],
+      "featured": false,
+      "sequenceNumber": 90
+    },
+    {
+      "title": "Leccion 3",
+      "tags": [ "Tecnologia_AdministradorDeServidores_Nivel2"],
+      "childTags": [ "Tecnologia_AdministradorDeServidores_Nivel2_Leccion3"],
+      "featured": false,
+      "sequenceNumber": 91
+    },
+    {
+      "title": "Leccion 4",
+      "tags": [ "Tecnologia_AdministradorDeServidores_Nivel2"],
+      "childTags": [ "Tecnologia_AdministradorDeServidores_Nivel2_Leccion4"],
+      "featured": false,
+      "sequenceNumber": 92
+    },
+    {
+      "title": "Leccion 5",
+      "tags": [ "Tecnologia_AdministradorDeServidores_Nivel2"],
+      "childTags": [ "Tecnologia_AdministradorDeServidores_Nivel2_Leccion5"],
+      "featured": false,
+      "sequenceNumber": 93
+    },
+    {
+      "title": "Leccion 6",
+      "tags": [ "Tecnologia_AdministradorDeServidores_Nivel2"],
+      "childTags": [ "Tecnologia_AdministradorDeServidores_Nivel2_Leccion6"],
+      "featured": false,
+      "sequenceNumber": 94
+    },
+    {
+      "title": "Nivel 3",
+      "tags": [ "Tecnologia_AdministradorDeServidores"],
+      "childTags": [ "Tecnologia_AdministradorDeServidores_Nivel3"],
+      "featured": false,
+      "sequenceNumber": 95
+    },
+    {
+      "title": "Leccion 1",
+      "tags": [ "Tecnologia_AdministradorDeServidores_Nivel3"],
+      "childTags": [ "Tecnologia_AdministradorDeServidores_Nivel3_Leccion1"],
+      "featured": false,
+      "sequenceNumber": 96
+    },
+    {
+      "title": "Leccion 2",
+      "tags": [ "Tecnologia_AdministradorDeServidores_Nivel3"],
+      "childTags": [ "Tecnologia_AdministradorDeServidores_Nivel3_Leccion2"],
+      "featured": false,
+      "sequenceNumber": 97
+    },
+    {
+      "title": "Nivel 4",
+      "tags": [ "Tecnologia_AdministradorDeServidores"],
+      "childTags": [ "Tecnologia_AdministradorDeServidores_Nivel4"],
+      "featured": false,
+      "sequenceNumber": 98
+    },
+    {
+      "title": "Leccion 1",
+      "tags": [ "Tecnologia_AdministradorDeServidores_Nivel4"],
+      "childTags": [ "Tecnologia_AdministradorDeServidores_Nivel4_Leccion1"],
+      "featured": false,
+      "sequenceNumber": 99
     }
   ]
 }
