@@ -1,0 +1,14 @@
+{
+  "appId": "com.endlessm.canary-en",
+  "language": "en",
+
+  "content": [
+    {
+        "source": "capacitate",
+        "sourceURI": "https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=4066&load=4155&n=1&brandID=",
+        "tags": [ "Tecnologia_AdministradorDeBasesDeDatos_Nivel2_Leccion4" ],
+        "sequenceNumber": 25
+    }
+  ],
+  "sets": []
+}
